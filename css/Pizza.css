@@ -1,0 +1,35 @@
+.nav-home {
+    background-color: #bd2130 !important;
+}  
+ 
+.navbar-light .navbar-nav .nav-link {
+    color: #FFFFFF;
+}
+
+.navbar-light .navbar-brand.brand-head {
+    color: #FFFFFF;
+}
+
+.About-Pizza{margin-bottom: 100px;
+             margin: top 3rem; 
+
+}   
+
+
+.Pizza-Types{ margin-top: 3rem;
+              margin-bottom: 3rem;
+
+}
+
+.slider {
+    height: 700px;
+    margin-bottom: 20px;
+}
+
+.footer{ background-color: #bd2130;
+        padding: 1.5rem 0;
+        color: #FFFFFF;
+
+}  
+
+              
